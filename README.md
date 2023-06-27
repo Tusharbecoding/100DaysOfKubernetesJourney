@@ -2,15 +2,15 @@
 ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png)
 
 
-## [✍️ Your Name]'s Kubernetes Journey
+## ✍️ Tushar's Kubernetes Journey
 
 ### Your Social
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- Twitter (https://twitter.com/TusharC29050031)
+- LinkedIn (https://www.linkedin.com/in/tushar-chopra-960532215/)
 
 ## Stepping out the door
 
-- [ ] ☸ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☸ 1 > [Day 001](Journey/001/Readme.md)
 - [ ] ☸ 2 > [](Journey/002/Readme.md)
 - [ ] ☸ 3 > [](Journey/003/Readme.md)
 - [ ] ☸ 4 > [](Journey/004/Readme.md)
