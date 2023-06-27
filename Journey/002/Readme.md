@@ -1,15 +1,7 @@
-# New post title here
+# Day 002
 
 ## Introduction
+![Alt text](image.png)
+Brushed up on few more basics and setup minikube today. Practiced some kubectl commands and created pods as well.
 
-
-## Prerequisite
-
-
-## Use Case
-
-
-## Research
-
-
-## Try yourself
+[Tweet](https://twitter.com/TusharC29050031/status/1673747999346896897?s=20)
