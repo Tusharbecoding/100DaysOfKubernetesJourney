@@ -1,4 +1,4 @@
-# Day 018
+# Day 019
 
 ## Introduction
 With some basics done I am now going to some deeper stuff like today I studied about Stateful Sets & difference b/w In Tree & Out Tree
